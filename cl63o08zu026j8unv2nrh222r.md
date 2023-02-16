@@ -1,4 +1,4 @@
-# #01 | The Linear Regression & Supervised Regression Models
+# The Linear Regression & Supervised Regression Models
 
 ## 🎯 Chapter Importance
 
