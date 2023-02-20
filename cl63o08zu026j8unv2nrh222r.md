@@ -1,8 +1,8 @@
-# The Linear Regression & Supervised Regression Models
+# #01 | The Linear Regression & Supervised Regression Models
 
 ## 🎯 Chapter Importance
 
-Machine Learning is all about calculating [the best numbers](https://twitter.com/sotastica/status/1449735653328031745) of a mathematical equation by [minimising the distance between real data and predictions](https://www.youtube.com/watch?v=Ht3rYS-JilE).
+Machine Learning is all about calculating [the best numbers](https://twitter.com/sotastica/status/1449735653328031745) of a mathematical equation.
 
 The form of a Linear Regression mathematical equation is as follows:
 
