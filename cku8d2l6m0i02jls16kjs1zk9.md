@@ -1,4 +1,14 @@
-# Why all Machine Learning Models are the Same?
+---
+title: "Why do all Machine Learning models follow the same steps?"
+seoTitle: "What Machine Learning Models have in common"
+seoDescription: "Uncovering the patterns across different Machine Learning models will make you understand how they work in Python, a programming language"
+datePublished: Fri Oct 01 2021 12:47:17 GMT+0000 (Coordinated Universal Time)
+cuid: cku8d2l6m0i02jls16kjs1zk9
+slug: why-do-all-machine-learning-models-follow-the-same-steps
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1633092426398/uk6VplZUp.png
+tags: python, data-science, machine-learning, python3, programming-tips
+
+---
 
 ## Introduction
 
