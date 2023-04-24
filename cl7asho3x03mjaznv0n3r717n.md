@@ -209,6 +209,8 @@ plot_tree(decision_tree=model_dt, feature_names=X_train.columns, filled=True);
 
 ![plot2.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1661536239295/i8Afxdowz.jpeg align="center")
 
+> Learn how to become an independent Machine Learning programmer who knows [when to apply any ML algorithm to any dataset](https://courses.resolvingpython.com/machine-learning).
+
 ### 2nd Configuration
 
 ```python
