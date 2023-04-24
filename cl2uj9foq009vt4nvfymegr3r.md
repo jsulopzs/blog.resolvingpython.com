@@ -1,4 +1,14 @@
-# #02 | The Decision Tree Classifier & Supervised Classification Models
+---
+title: "#02 | The Decision Tree Classifier & Supervised Classification Models"
+seoTitle: "Resolving Decision Tree's Common Mistakes using Python"
+seoDescription: "This tutorial shows you the step by step resolution of possible errors you may get as you develop your Decision Tree Classifier."
+datePublished: Fri May 06 2022 14:29:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl2uj9foq009vt4nvfymegr3r
+slug: 02-the-decision-tree-classifier-supervised-classification-models
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661990564779/iF8JJ_0g_.jpg
+tags: statistics, python, data-science, machine-learning, pandas
+
+---
 
 **© Jesús López 2022**
 
@@ -267,6 +277,8 @@ model_dt.__dict__
 ```
 
 {'criterion': 'gini', 'splitter': 'best', 'max\_depth': None, 'min\_samples\_split': 2, 'min\_samples\_leaf': 1, 'min\_weight\_fraction\_leaf': 0.0, 'max\_features': None, 'max\_leaf\_nodes': None, 'random\_state': None, 'min\_impurity\_decrease': 0.0, 'class\_weight': None, 'ccp\_alpha': 0.0, 'feature\_names\_in\_': array(\['age', 'sex\_male', 'embarked\_Q', 'embarked\_S', 'class\_Second', 'class\_Third'\], dtype=object), 'n\_features\_in\_': 6, 'n\_outputs\_': 1, 'classes\_': array(\[0, 1\]), 'n\_classes\_': 2, 'max\_features\_': 6, 'tree\_': &lt;sklearn.tree.\_tree.Tree at 0x16612cce0&gt;}
+
+> Learn how to become an independent Machine Learning programmer who knows [when to apply any ML algorithm to any dataset](https://courses.resolvingpython.com/machine-learning).
 
 ### Predictions
 
