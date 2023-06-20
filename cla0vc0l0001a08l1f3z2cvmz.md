@@ -1,4 +1,12 @@
-# Summarise Time Series data with the DataFrame.resample() function
+---
+title: "Summarise Time Series data with the DataFrame.resample function"
+datePublished: Thu Nov 03 2022 09:31:38 GMT+0000 (Coordinated Universal Time)
+cuid: cla0vc0l0001a08l1f3z2cvmz
+slug: summarise-time-series-data-with-the-dataframeresample-function
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1667467305360/atE9dBGDU.jpg
+tags: python, data-science, data-analysis, pandas, stockmarket
+
+---
 
 ❌ Don't think of a `for` loop if you want to summarise your daily Time Series by years.
 
